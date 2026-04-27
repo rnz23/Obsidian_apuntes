@@ -27,8 +27,16 @@ docker exec -it (nombre del contenedor) /bin /bash
 
 
 
+## INSTALAR OFUSCADO
+```
+npm init -y  
+npm install javascript-obfuscator
+```
 
-
+## OFUSCAR
+```
+npx javascript-obfuscator app.js --output app.obf.js
+```
 
 
 
@@ -71,3 +79,12 @@ docker exec -it (nombre del contenedor) /bin /bash
 		-p 8080:80 -> mapping de puertos
 		-name apache-test -> Nombre del Contenedor
 		-ejercicio2 -> Nombre de la imagen que se construyo
+
+
+
+
+
+
+como correr a un sevidor web o nginx, el que ya tengo en agenda
+
+PREGUNTA EXAMEN - como poner el script javascript en el header sin que haya error
