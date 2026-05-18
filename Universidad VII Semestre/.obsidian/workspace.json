@@ -41,12 +41,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epistemología/Clase 31-03.md",
+                "file": "Evaluacion y mejora de procesos/BPMN 23-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 31-03"
+              "title": "BPMN 23-04"
+            }
+          },
+          {
+            "id": "9da3198ba4a3607b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evaluacion y mejora de procesos/BPMN 23-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BPMN 23-04"
+            }
+          },
+          {
+            "id": "752392672695ab2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epistemología/Clase 11-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 11-05"
             }
           },
           {
@@ -146,9 +174,37 @@
               "icon": "lucide-file",
               "title": "Sin título"
             }
+          },
+          {
+            "id": "effd080bafdf9b8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epistemología/Clase 27-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 27-04"
+            }
+          },
+          {
+            "id": "a481cd53eaea291a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minería de datos/Hubway.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hubway"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -307,19 +363,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "d6d276556fbdf2af",
+  "active": "752392672695ab2d",
   "lastOpenFiles": [
     "Evaluacion y mejora de procesos/BPMN 23-04.md",
+    "Epistemología/Clase 11-05.md",
+    "Evaluacion y mejora de procesos/IDEF integrated definition modeling language.md",
+    "Epistemología/Clase 13-04.md",
+    "Epistemología/Clase 20-04.md",
+    "Epistemología/Clase 05-05.md",
+    "Epistemología/Clase 27-04.md",
+    "Evaluacion y mejora de procesos/Pasted image 20260408192228.png",
+    "Minería de datos/Hubway.md",
+    "Epistemología/Clase 31-03.md",
     "Minería de datos/Sin título.md",
     "Derechos humanos/Clase 21-04.md",
-    "Epistemología/Clase 20-04.md",
     "Derechos humanos",
-    "Evaluacion y mejora de procesos/IDEF integrated definition modeling language.md",
     "Pasted image 20260415190530.png",
     "Ingeniería Web/Accesibilidad Web.md",
     "Ingeniería Web/Trabajo Final.md",
-    "Epistemología/Clase 31-03.md",
-    "Epistemología/Clase 13-04.md",
     "Epistemología/Clase 06-04.md",
     "Expos_derechos_humanos/Exposiciones 14-04.md",
     "Expos_derechos_humanos",
