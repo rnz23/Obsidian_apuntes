@@ -4,128 +4,142 @@
     "type": "split",
     "children": [
       {
-        "id": "d6b7cfa51c998767",
+        "id": "c2adaa102ece54e7",
         "type": "tabs",
         "children": [
           {
-            "id": "fbb90c2dbff3ac0b",
+            "id": "2fa4df4aedaf658b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epistemología/Clase 31-03.md",
+                "file": "Clase 25-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 31-03"
+              "title": "Clase 25-05"
             }
           },
           {
-            "id": "11d787f88f5ce9c2",
+            "id": "ad820bd07dcd1df3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epistemología/Clase 13-04.md",
+                "file": "Minería de datos/Clase 25-05 - Después parcial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 13-04"
+              "title": "Clase 25-05 - Después parcial"
             }
           },
           {
-            "id": "d2a83f2c40f66fac",
+            "id": "86328a56e009b7b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evaluacion y mejora de procesos/BPMN 23-04.md",
+                "file": "Construcción Software/Clase 25-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BPMN 23-04"
+              "title": "Clase 25-05"
             }
           },
           {
-            "id": "9da3198ba4a3607b",
+            "id": "a3dfaf1763b376d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evaluacion y mejora de procesos/BPMN 23-04.md",
+                "file": "Epistemología/Clase 26-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BPMN 23-04"
+              "title": "Clase 26-05"
             }
           },
           {
-            "id": "752392672695ab2d",
+            "id": "1efa2538cf6416cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epistemología/Clase 11-05.md",
+                "file": "Epistemología/Clase 26-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 11-05"
+              "title": "Clase 26-05"
             }
           },
           {
-            "id": "d05e59a81876637c",
+            "id": "e6b39aa0b6546148",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Web/Trabajo Final.md",
+                "file": "Derechos humanos/Clase 29-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trabajo Final"
+              "title": "Clase 29-05"
             }
           },
           {
-            "id": "ecd3c1b151966fc6",
+            "id": "cac36f9b8bc6ce98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Web/Accesibilidad Web.md",
+                "file": "Derechos humanos/PREGUNTAS EXAMEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accesibilidad Web"
+              "title": "PREGUNTAS EXAMEN"
             }
           },
           {
-            "id": "9d5db4480c0bb68b",
+            "id": "8c6a7ba3311601b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evaluacion y mejora de procesos/IDEF integrated definition modeling language.md",
+                "file": "Epistemología/Clase 08-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDEF integrated definition modeling language"
+              "title": "Clase 08-06"
             }
           },
           {
-            "id": "7314e2794d982f11",
+            "id": "a86bd3df94d50449",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minería de datos/Sin título.md",
+                "file": "Minería de datos/Clase 15-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 15-06"
+            }
+          },
+          {
+            "id": "0a922f77d4542690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epistemología/Sin título.md",
                 "mode": "source",
                 "source": false
               },
@@ -134,77 +148,63 @@
             }
           },
           {
-            "id": "08a50a3a9ea3966f",
+            "id": "7ea35a62ff3f0fdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epistemología/Clase 20-04.md",
+                "file": "Derechos humanos/Clase 16-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 20-04"
+              "title": "Clase 16-06"
             }
           },
           {
-            "id": "50de7d1c76bff950",
+            "id": "4fa24cc141328b23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minería de datos/Sin título.md",
+                "file": "Minería de datos/Clase 16-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Clase 16-06"
             }
           },
           {
-            "id": "d6d276556fbdf2af",
+            "id": "34e42df340fe217a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minería de datos/Sin título.md",
+                "file": "Derechos humanos/PREGUNTAS EXAMEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "PREGUNTAS EXAMEN"
             }
           },
           {
-            "id": "effd080bafdf9b8f",
+            "id": "11a01092f76897ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epistemología/Clase 27-04.md",
+                "file": "RESUMEN EXAMEN DERECHOS HUMANOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 27-04"
-            }
-          },
-          {
-            "id": "a481cd53eaea291a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minería de datos/Hubway.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hubway"
+              "title": "RESUMEN EXAMEN DERECHOS HUMANOS"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -363,30 +363,41 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "752392672695ab2d",
+  "active": "11a01092f76897ef",
   "lastOpenFiles": [
-    "Evaluacion y mejora de procesos/BPMN 23-04.md",
-    "Epistemología/Clase 11-05.md",
-    "Evaluacion y mejora de procesos/IDEF integrated definition modeling language.md",
-    "Epistemología/Clase 13-04.md",
-    "Epistemología/Clase 20-04.md",
-    "Epistemología/Clase 05-05.md",
-    "Epistemología/Clase 27-04.md",
-    "Evaluacion y mejora de procesos/Pasted image 20260408192228.png",
-    "Minería de datos/Hubway.md",
-    "Epistemología/Clase 31-03.md",
-    "Minería de datos/Sin título.md",
+    "Pasted image 20260710120449.png",
+    "Derechos humanos/PREGUNTAS EXAMEN.md",
+    "RESUMEN EXAMEN DERECHOS HUMANOS.md",
+    "Derechos humanos/Clase 16-06.md",
+    "Derechos humanos/Clase 23-06.md",
     "Derechos humanos/Clase 21-04.md",
-    "Derechos humanos",
-    "Pasted image 20260415190530.png",
+    "Derechos humanos/Clase 26-05.md",
+    "Derechos humanos/Clase 29-05.md",
+    "Minería de datos/Clase 16-06.md",
+    "Pasted image 20260616132926.png",
+    "Pasted image 20260616132921.png",
+    "Epistemología/Sin título.md",
+    "Minería de datos/Clase 15-06.md",
+    "Epistemología/Clase 08-06.md",
+    "Epistemología/Clase 26-05.md",
+    "Sin título 1.md",
+    "Construcción Software/Clase 25-05.md",
+    "Minería de datos/Clase 25-05 - Después parcial.md",
+    "Minería de datos/Hubway.md",
+    "Epistemología/Clase 27-04.md",
+    "Minería de datos/Sin título.md",
+    "Epistemología/Clase 20-04.md",
+    "Evaluacion y mejora de procesos/IDEF integrated definition modeling language.md",
     "Ingeniería Web/Accesibilidad Web.md",
     "Ingeniería Web/Trabajo Final.md",
-    "Epistemología/Clase 06-04.md",
-    "Expos_derechos_humanos/Exposiciones 14-04.md",
-    "Expos_derechos_humanos",
-    "Minería de datos/Clase 07-04.md",
-    "AUDITORIA DE SOFTWARE/Sin título.md",
-    "Ingeniería Web/COMANDOS DOCKERFILE.md",
-    "Ingeniería Web/PAGINA WEB TRES EN RAYA.md"
+    "Evaluacion y mejora de procesos/BPMN 23-04.md",
+    "Construcción Software",
+    "Evaluacion y mejora de procesos/Clase 08-04.md",
+    "Evaluacion y mejora de procesos/Pasted image 20260408192228.png",
+    "Evaluacion y mejora de procesos/Pasted image 20260408190733.png",
+    "Epistemología/Clase 11-05.md",
+    "Derechos humanos",
+    "Pasted image 20260415190530.png",
+    "Expos_derechos_humanos"
   ]
 }
