@@ -1,0 +1,21 @@
+FRONT BACK
+GAS Google Appscript -> Spring (Java)
+
+
+
+
+* Grupos de 5
+Cada grupo tiene nota por avance
+Con preguntas individuales
+
+Notas de evidencia (4 puntos de participación) preguntas los días viernes
+
+tomara en cuenta el segundo mayor puntaje y de ahi para abajo regla de 3 para calcular si habrá puntos entre (0 y 4 puntos)
+presentación de cada semana tienen que estar presentes todos
+
+FRAMEWORK a usar Alpine.js
+JavaScript en archivo .gs es para el servidore
+JavaScript en archivo .html corre en el cliente
+
+si usamos console.log es temporal -> se guarda en la parte de ejecuciones
+si usamos Logger.log es permanente
