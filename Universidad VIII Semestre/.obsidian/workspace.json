@@ -1,43 +1,62 @@
 {
   "main": {
-    "id": "5bb6051acd28f2e3",
+    "id": "40c86127b9057d4f",
     "type": "split",
     "children": [
       {
-        "id": "6b25f278f5c1b8aa",
+        "id": "5100a8375ae1049c",
         "type": "tabs",
         "children": [
           {
-            "id": "7fe454f664bc5794",
+            "id": "35ed44d2bbcf80db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "VIII Semestre/Metodología de la Investigación Científica/Clase 24-08.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Clase 24-08"
+            }
+          },
+          {
+            "id": "76805e4572cd4545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Posibles Papers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Posibles Papers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "691aefb40bfcc4ad",
+    "id": "b0a003d615dae78e",
     "type": "split",
     "children": [
       {
-        "id": "88a7fc48b07bb572",
+        "id": "fe181ef97151075f",
         "type": "tabs",
         "children": [
           {
-            "id": "18518858f4395d3d",
+            "id": "83cb825a138fa82e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
-                "autoReveal": true,
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -46,7 +65,7 @@
             }
           },
           {
-            "id": "4c38470c50eb5cac",
+            "id": "d7cd681a39fa9c01",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,11 +82,14 @@
             }
           },
           {
-            "id": "3aa4c7517a4c2af7",
+            "id": "8c4b4762c960d665",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
@@ -79,19 +101,20 @@
     "width": 300
   },
   "right": {
-    "id": "33967fa917272076",
+    "id": "052a01344c458600",
     "type": "split",
     "children": [
       {
-        "id": "ed2401b064550f7f",
+        "id": "7dc4c55f978b39da",
         "type": "tabs",
         "children": [
           {
-            "id": "d89f53482f83ee2c",
+            "id": "f3e5e80150c11487",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Posibles Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +128,7 @@
             }
           },
           {
-            "id": "f49d53c2df37f3ee",
+            "id": "974949ee2546d18f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -118,7 +141,7 @@
             }
           },
           {
-            "id": "0ecb5408c1f91338",
+            "id": "6321967368646984",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +156,7 @@
             }
           },
           {
-            "id": "6c1eecc306e84358",
+            "id": "ffb5b0eec6eb9b48",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,7 +170,7 @@
             }
           },
           {
-            "id": "c92ba019b8f967dd",
+            "id": "50f97267675c735b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -178,46 +201,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "18518858f4395d3d",
+  "active": "76805e4572cd4545",
   "lastOpenFiles": [
-    "VII Semestre/Pasted image 20260616132921.png",
+    "VIII Semestre/Metodología de la Investigación Científica/Clase 24-08.md",
+    "Posibles Papers.md",
     "VIII Semestre/Desarrollo de Videojuegos/Clase 22-08.md",
-    "VII Semestre",
-    "VIII Semestre",
-    "VII Semestre/RESUMEN EXAMEN DERECHOS HUMANOS.md",
-    "VIII Semestre/Desarrollo de Videojuegos",
-    "VIII Semestre/Gestión de la Configuración y el Cambio/CLASE 20-08",
-    "VIII Semestre/Gestión de la Configuración y el Cambio",
-    "VII Semestre/Pasted image 20260710120449.png",
-    "VII Semestre/Derechos humanos/PREGUNTAS EXAMEN.md",
-    "VII Semestre/Derechos humanos/Clase 16-06.md",
-    "VII Semestre/Derechos humanos/Clase 23-06.md",
-    "VII Semestre/Derechos humanos/Clase 21-04.md",
-    "VII Semestre/Derechos humanos/Clase 26-05.md",
-    "VII Semestre/Derechos humanos/Clase 29-05.md",
-    "VII Semestre/Minería de datos/Clase 16-06.md",
-    "VII Semestre/Pasted image 20260616132926.png",
-    "VII Semestre/Epistemología/Sin título.md",
-    "VII Semestre/Minería de datos/Clase 15-06.md",
-    "VII Semestre/Epistemología/Clase 08-06.md",
-    "VII Semestre/Epistemología/Clase 26-05.md",
-    "Sin título 1.md",
-    "VII Semestre/Construcción Software/Clase 25-05.md",
-    "VII Semestre/Minería de datos/Clase 25-05 - Después parcial.md",
-    "VII Semestre/Minería de datos/Hubway.md",
-    "VII Semestre/Epistemología/Clase 27-04.md",
-    "VII Semestre/Minería de datos/Sin título.md",
-    "VII Semestre/Epistemología/Clase 20-04.md",
-    "VII Semestre/Evaluacion y mejora de procesos/IDEF integrated definition modeling language.md",
-    "VII Semestre/Ingeniería Web/Accesibilidad Web.md",
-    "VII Semestre/Ingeniería Web/Trabajo Final.md",
-    "VII Semestre/Evaluacion y mejora de procesos/BPMN 23-04.md",
-    "VII Semestre/Construcción Software",
-    "VII Semestre/Evaluacion y mejora de procesos/Clase 08-04.md",
-    "VII Semestre/Evaluacion y mejora de procesos/Pasted image 20260408192228.png",
-    "VII Semestre/Evaluacion y mejora de procesos/Pasted image 20260408190733.png",
-    "VII Semestre/Derechos humanos",
-    "VII Semestre/Pasted image 20260415190530.png",
-    "VII Semestre/Expos_derechos_humanos"
+    "VIII Semestre/Metodología de la Investigación Científica"
   ]
 }
