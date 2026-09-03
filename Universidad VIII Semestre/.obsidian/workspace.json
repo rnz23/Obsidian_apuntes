@@ -8,61 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecb5af222cd5244b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VIII Semestre/Calidad de Software/Actividad Grupal 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Actividad Grupal 1"
-            }
-          },
-          {
-            "id": "76a2d1092669617c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "VIII Semestre/Calidad de Software/Pasted image 20260831184124.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260831184124"
-            }
-          },
-          {
-            "id": "ab1c24dd08db250c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VIII Semestre/Metodología de la Investigación Científica/Posibles Papers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Posibles Papers"
-            }
-          },
-          {
-            "id": "f4c9983136de2318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VIII Semestre/Gestión de la Configuración y el Cambio/Apuntes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Apuntes"
-            }
-          },
-          {
-            "id": "52ee158312e7cc91",
+            "id": "539906df2894f84f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,9 +20,37 @@
               "icon": "lucide-file",
               "title": "Clase 26-08"
             }
+          },
+          {
+            "id": "f02ec0ad9180cc62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIII Semestre/Tecnologías de Construcción de Software/Proyecto - Documentación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proyecto - Documentación"
+            }
+          },
+          {
+            "id": "30b4eb99eabaacaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIII Semestre/Tecnologías de Construcción de Software/Proyecto - Documentación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proyecto - Documentación"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,28 +215,28 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "52ee158312e7cc91",
+  "active": "30b4eb99eabaacaf",
   "lastOpenFiles": [
     "VIII Semestre/Metodología de la Investigación Científica/Actividad papers.md",
     "VIII Semestre/Gestión de la Configuración y el Cambio/Proyecto personal.md",
-    "VIII Semestre/Metodología de la Investigación Científica/Posibles Papers.md",
     "VIII Semestre/Tecnologías de Construcción de Software/Clase 02-09.md",
     "VIII Semestre/Gestión de la Configuración y el Cambio/Apuntes.md",
-    "VIII Semestre/Metodología de la Investigación Científica/Clase 24-08.md",
-    "VIII Semestre/Metodología de la Investigación Científica/Clase 26-08.md",
+    "VIII Semestre/Tecnologías de Construcción de Software/Proyecto - Documentación.md",
     "VIII Semestre/Metodología de la Investigación Científica/Clase 31-08.md",
-    "VIII Semestre/Metodología de la Investigación Científica/Palabras Clave para Investigar.md",
-    "VIII Semestre/Tecnologías de Construcción de Software/Clase 26-08.md",
     "VIII Semestre/Desarrollo de Videojuegos/Clase 01-09.md",
-    "VIII Semestre/Calidad de Software/Pasted image 20260831184124.png",
-    "Sin nombre",
-    "VIII Semestre/Calidad de Software/Clase 31-08.md",
-    "VIII Semestre/Calidad de Software/Actividad Grupal 1.md",
-    "Sin título 1.md",
-    "VIII Semestre/Calidad de Software",
     "VIII Semestre/Deontología/Introducción a la ética.md",
     "VIII Semestre/Deontología",
+    "VIII Semestre/Calidad de Software/Pasted image 20260831184124.png",
+    "VIII Semestre/Calidad de Software/Clase 31-08.md",
+    "VIII Semestre/Calidad de Software/Actividad Grupal 1.md",
+    "VIII Semestre/Calidad de Software",
+    "VIII Semestre/Tecnologías de Construcción de Software/Clase 26-08.md",
+    "Sin nombre",
+    "VIII Semestre/Metodología de la Investigación Científica/Posibles Papers.md",
     "VIII Semestre/Tecnologías de Construcción de Software",
+    "VIII Semestre/Metodología de la Investigación Científica/Clase 26-08.md",
+    "VIII Semestre/Metodología de la Investigación Científica/Palabras Clave para Investigar.md",
+    "VIII Semestre/Metodología de la Investigación Científica/Clase 24-08.md",
     "VIII Semestre/Desarrollo de Videojuegos/Clase 22-08.md",
     "VIII Semestre/Metodología de la Investigación Científica"
   ]
