@@ -1,0 +1,39 @@
+
+https://doi.org/10.48550/arXiv.2512.07117 #Cualitativo
+==This chapter explores== human creativity in AI-assisted learning environments through the lens of student agency. We begin by ==examining four theoretical perspectives== on agency, including instrumental, effortful, dynamically emergent, and authorial agency, and analyze how each frames the relationship between agency and creativity. Under each theoretical perspective, we discuss how the integration of generative AI (GenAI) tools reshapes these dynamics by altering students' roles in cognitive, social, and creative processes. In the second part, we introduce a theoretical framework for AI agentic engagement, contextualizing agency within specific cognitive, relational, and ethical dynamics introduced by GenAI tools. This framework is linked to the concept of Mini-c creativity, emphasizing personal relevance and self-directed learning. Together, these perspectives support a shift from viewing creativity as product-oriented to ==understanding it as a process of agentive participation and meaning-making==. We conclude with two directions for future research focused on the creative process and performance in AI-assisted learning.
+
+
+https://doi.org/10.3390/technologies14050260 #Cuantitativo 
+Artificial intelligence (AI) is a new paradigm in software engineering that automates key phases of the development cycle. The methods of creating test cases and designing requirements are still mostly manual and prone to error. Unclear requirements can result in expensive rework and undiscovered defects in the development process. Scalability and dependability are crucial concerns in complex systems. These shortcomings highlight the need for improved methods to enhance accuracy and consistency throughout these critical phases. To generate well-organized system requirements, ==this article outlines a clear strategy== that leverages Extended Finite State Machine models as formal inputs for large language models (LLMs). ==Five system models are used to assess the suggested framework== . The comparison analysis ==evaluates the accuracy, completeness, test coverage, and runtime efficiency of the artifacts== . Along with a comparison with a human-made reference standard, the study evaluates the performance of LLMs such as ChatGPT-5, Claude Sonnet 4.5, and DeepSeek V3.2. The findings demonstrate that AI models can achieve human-comparable accuracy by ==exceeding 90% with EFSM-based prompting== . Claude Sonnet generated the most reliable findings, ChatGPT demonstrated exceptional flexibility, and DeepSeek demonstrated exceptional runtime economy. ==These findings show that human–AI workflows provide a new paradigm in scalable, traceable, and reproducible system engineering.== 
+
+
+
+PAPER DEL GRUPO
+https://doi.org/10.48082/espacios-a26v47n02i10 El efecto de la eficiente gestión aduanera en el plazo de entrega de las importaciones #Cuantitativo 
+
+El estudio ==analiza y compara la relación== entre la eficiencia del despacho aduanero y el plazo de entrega de importaciones en países pertenecientes al G7 y G5. Los resultados infieren que, en el G7 la eficiencia aduanera reduce significativamente los tiempos de entrega ==(β= −1.84; p< 0.05)== ; mientras que en el G5 la relación no es ==estadísticamente significativa, mostrando diferencias coyunturales entre economías avanzadas y emergentes== 
+
+
+(https://doi.org/10.1016/j.jisa.2022.103116)
+TPPSUPPLY : A traceable and privacy-preserving blockchain system architecture for the supply chain #Cuantitativo 
+
+Traceability and auditability are key structures in supply chain management and construction. However, trust is the most important aspect of customers in these systems. Also, relying on third parties to trade in centralized systems is indispensable. Although current exist frameworks for these solutions in the supply chain, these have work poor traceability and lack of real-time information, and especially lack of privacy. In this article, we propose a framework for supply chain traceability that preserves privacy from third parties by using smart contracts. ==In the proposed framework, digital signature and verification are provided by using existing cryptographic techniques in off-chain and on-chain smart contract integration, and it is demonstrated the applicability of architecture by testing== . The architecture also provides both anonymity and traceability depending on the user’s request. Finally, thanks to traceability and auditability in the proposed system, customers and other parties can view with a single product ID and also verify with digital signature the claims of the actors in the system.
+
+
+https://www.mdpi.com/2673-2688/6/6/130
+Early Detection of the Marathon Wall to Improve Pacing Strategies in Recreational Marathoners #Cuantitativo
+
+The individual marathon optimal pacing sparring the runner to hit the “wall” after 2 h of running remain unclear. In the current study we ==examined to what extent Deep neural Network contributes to identify the individual optimal pacing training a Variational Auto Encoder (VAE) with a small dataset of nine runners==. This last one has been constructed from an original one that contains the ==values of multiple physiological variables for 10 different runners during a marathon== . We plot the Lyapunov exponent/Time graph on these variables for each runner showing that the marathon wall could be anticipated. The pacing strategy that this innovative technique sheds light on is to ==predict and delay the moment when the runner empties his reserves and ’hits the wall’== while considering the individual physical capabilities of each athlete. Our data suggest that given that a further increase of marathon runner ==using a cardio-GPS== could benefit of their pacing run for optimizing their performance if AI would be used for learning how to self-pace his marathon race for avoiding hitting the wall.
+
+
+[https://doi.org/10.3390/info14110607](https://doi.org/10.3390/info14110607)
+Interoperability-Enhanced Knowledge Management in Law Enforcement: An Integrated Data-Driven Forensic Ontological Approach to Crime Scene Analysis #EnDuda
+
+
+Nowadays, more and more **sciences** are **involved** in strengthening the work of **law enforcement authorities**. Scientific documentation is evidence highly respected by the courts in administering justice. As the involvement of science in **solving crimes increases**, so does **human subjectivism**, which often leads to wrong conclusions and, consequently, to bad judgments. From the above arises the need to **create a single information system** that will be fed with **scientific evidence** such as fingerprints, genetic material, digital data, forensic photographs, information from the forensic report, etc., and also **investigative data** such as information from witnesses’ statements, the apology of the accused, etc., from **various crime** scenes that will **be able**, through formal **reasoning procedure**, to conclude **possible perpetrators**. The present study examines a proposal for developing an information system that can be a basis for creating a **forensic ontology**—**a semantic representation of the crime scene**—through descriptive logic in the owl semantic language. The **Interoperability**-Enhanced information system to be developed could **assist law enforcement authorities** in **solving crimes**. At the same time, it would promote closer **cooperation** between **academia**, **civil society**, and **state institutions** by fostering a culture of engagement for the common good.
+
+
+
+mi tema de investigacion es esto y las razones
+* usar wikihcp o wikichp
+* IEEE
