@@ -1,5 +1,5 @@
 1. definir tema
-	1. IA -> Deep Learning -> Explainable
+	1. IA -> Deep Learning -> Explainable (Esto es un ejemplo)
 2. Buscar palabras clave
 	1. Leer título
 3. Identificar tipo de publicación
@@ -13,6 +13,3 @@
 	1. Usar and not
 6. Citado por
 	1. Quienes lo citaron
-
-
-< Revisar el paper de la miss >

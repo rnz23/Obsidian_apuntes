@@ -10,4 +10,3 @@ scopus, google scholar, web of science
 		1. buscar SURVEYS / REVIEWS , a partir de ellos dependiendo del año empezar a actualizar información o desarrollar
 
 
-# Estado del Arte - Trabajos relacionados
